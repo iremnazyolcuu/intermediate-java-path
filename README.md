@@ -1,2 +1,3 @@
 # intermediate-java-path
-Intermediate Level Java Web Development Path 
+Assignments for the Intermediate Level Java Web Development Path by Kodluyoruz
+
