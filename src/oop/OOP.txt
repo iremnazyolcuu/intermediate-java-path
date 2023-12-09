@@ -1,0 +1,5 @@
+• 4 Pillars of OOP
+- Inheritance
+- Encapsulation
+- Abstraction
+- Polymorphism
